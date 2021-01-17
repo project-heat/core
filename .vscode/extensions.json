@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "streetsidesoftware.code-spell-checker",
+    "DeepScan.vscode-deepscan",
+    "christian-kohler.npm-intellisense"
+  ]
+}
