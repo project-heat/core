@@ -1,6 +1,9 @@
-# nest-discordjs-template
+# core
 
-![Node.js CI](https://github.com/InkoHX/nest-discord-commander/workflows/Node.js%20CI/badge.svg)
+[![Maintainability](https://api.codeclimate.com/v1/badges/da1ac3afaeedf37d9a0b/maintainability)](https://codeclimate.com/github/project-heat/core/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/da1ac3afaeedf37d9a0b/test_coverage)](https://codeclimate.com/github/project-heat/core/test_coverage)
+![Node.js CI](https://github.com/project-heat/core/workflows/Node.js%20CI/badge.svg)
+![CodeQL](https://github.com/project-heat/core/workflows/CodeQL/badge.svg)
 
 ## Description
 
